@@ -1,5 +1,3 @@
-// requires: discord.js-selfbot-v13, axios
-
 const fs = require("fs")
 const readline = require("readline")
 const { Client } = require("discord.js-selfbot-v13")
